@@ -5,7 +5,9 @@ int main () {
     string s,t;
     cin>>s>>t;
 
-    for(int i=0;i<s.size();i++) {
+    int n = s.length();
+    
+    for(int i=0;i<n;i++) {
         s[i] = tolower(s[i]);
         t[i] = tolower(t[i]);
     }
