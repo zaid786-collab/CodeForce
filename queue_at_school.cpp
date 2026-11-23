@@ -8,9 +8,11 @@ int main () {
     string s;
     cin>>s;
 
+    int r = s.length() - 1;
+
     while(t--) {
 
-        for(int i=0;i<s.length()-1;i++) {
+        for(int i=0;i<r;i++) {
             if(s[i] == 'B' && s[i+1] == 'G') {
                 swap(s[i],s[i+1]);
                 i++;
