@@ -5,6 +5,8 @@ A collection of my solutions to **Codeforces** problems, written with a focus on
 ## Author
 
 **Mohammad Zaid Khan**
+<br>
+2nd Year CSE Student at ABES Engineering College
 
 ---
 
